@@ -1,0 +1,8 @@
+Dataset: GSE95587
+Run on: 2026-10-18 23:18:29
+Genes: 39376  Samples: 117
+AD: 84  Control: 33  Unlabelled: 0
+Diagnosis column: diagnosis:ch1
+Duplicate gene symbols: 0
+Library size median (M): 30
+Counts file MD5: a30ce8418ab77492df482a79f7014bd5

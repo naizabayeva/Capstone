@@ -1,0 +1,12 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# Data never goes to GitHub (public repo; MSBB is controlled-access)
+data/
+*.gz
+*.tsv
+*.h5
+*.rds
