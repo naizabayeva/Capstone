@@ -1,0 +1,8 @@
+Dataset: GSE95587
+Date: 2026-10-22 01:13:14.692059
+Genes before filtering: 39376
+Shah-style filter: 15904
+Standard filter: 21465
+Genes kept by both: 15904
+Normalization: TMM
+edgeR version: 4.10.6

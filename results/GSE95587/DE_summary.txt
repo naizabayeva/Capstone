@@ -1,0 +1,31 @@
+Dataset: GSE95587
+Date: 2026-10-22 01:26:12.01554
+Model: limma-voom
+Design: ~ group (Control reference)
+Covariates: none
+DEG threshold: P < 0.05 and |logFC| > 0.58
+edgeR version: 4.10.6
+limma version: 3.68.5
+
+Gene list comparison:
+Genes in my Shah-style branch: 15904
+Genes in Shah reference: 15904
+Genes shared: 15904
+
+Differential expression comparison:
+                   branch genes_tested genes_shared_with_shah
+1 Shah et al. (reference)        15904                  15904
+2       Shah-style filter        15904                  15904
+3         Standard filter        21465                  15904
+  DEGs DEGs_up DEGs_down DEGs_FDR05 shah_DEGs_found
+1 1205     459       746       7674            1205
+2 1206     454       752       7643            1200
+3 2093     810      1283       9165            1190
+  pct_shah_DEGs_found logFC_spearman max_abs_logFC_diff
+1               100.0         1.0000             0.0000
+2                99.6         1.0000             0.0113
+3                98.8         0.9999             0.0857
+  pct_same_direction top500_overlap
+1              100.0            500
+2               99.8            482
+3               99.7            426

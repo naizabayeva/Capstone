@@ -1,0 +1,4 @@
+"branch","genes_tested","genes_shared_with_shah","DEGs","DEGs_up","DEGs_down","DEGs_FDR05","shah_DEGs_found","pct_shah_DEGs_found","logFC_spearman","max_abs_logFC_diff","pct_same_direction","top500_overlap"
+"Shah et al. (reference)",15904,15904,1205,459,746,7674,1205,100,1,0,100,500
+"Shah-style filter",15904,15904,1206,454,752,7643,1200,99.6,1,0.0113,99.8,482
+"Standard filter",21465,15904,2093,810,1283,9165,1190,98.8,0.9999,0.0857,99.7,426
